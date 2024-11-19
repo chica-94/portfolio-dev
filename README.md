@@ -1,13 +1,13 @@
-# arasgungore.github.io
+# chica-94.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript.
+My portfolio website built using HTML, CSS, and JavaScript. Click here to see it --> [chica-94.github.io](https://chica-94.github.io/portfolio-dev/)
 
 
 
 ## Screenshots
 
 <p float="center">
-    <img src="./Screenshots/1.png" width="800">
+    <img src="./Screenshots/3" width="800">
 </p>
 
 
